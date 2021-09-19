@@ -22,4 +22,4 @@ print(nth_power(10))
 # 	return [i**power for i in range(n)]
 
 # print(nth_power(10,4))
->>>>>>> apply_lambda_list
+
